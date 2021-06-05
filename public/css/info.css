@@ -1,0 +1,13 @@
+.container{
+  margin: 0;
+  align-items: center;
+}
+
+h4, p{
+  color: #6286C2;
+}
+
+li{
+  color: rgb(90, 88, 88);
+}
+
